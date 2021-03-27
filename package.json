@@ -1,0 +1,43 @@
+{
+  "name": "CreativeDeveloper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Walves",
+  "license": "MIT",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "better-sqlite3": "^7.1.0",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "common-tags": "^1.8.0",
+    "dblapi.js": "^2.4.1",
+    "discord-akairo": "^8.0.0",
+    "discord-anti-spam": "^2.4.1",
+    "discord-giveaways": "^4.0.2",
+    "discord-player": "^1.4.1",
+    "discord.js": "^12.1.1",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.1",
+    "fs": "^0.0.2",
+    "genius-lyrics": "^3.0.0",
+    "get-youtube-id": "^1.0.1",
+    "jimp": "^0.14.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.1.10",
+    "novelcovid": "^3.0.0",
+    "opusscript": "^0.0.7",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "ytdl-core": "^2.1.2",
+    "ytdl-core-discord": "^1.2.0"
+  }
+}
